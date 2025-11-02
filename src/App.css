@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background-image: linear-gradient(to right top, #131432, #22254d, #30376a, #3e4a89, #4c5fa9, #5066b5, #536cc1, #5673cd, #516cc6, #4c65bf, #485eb8, #4357b1);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  padding: 20px;
+}
+.App h2{
+  color: white;
+}

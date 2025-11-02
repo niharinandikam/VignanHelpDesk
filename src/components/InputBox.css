@@ -1,0 +1,24 @@
+.input-box {
+  display: flex;
+  border-top: 2px solid rgb(184, 175, 175);
+  padding: 8px;
+  gap: 15px;
+}
+
+.input-box input {
+  flex: 1;
+  border: 2px solid rgb(184, 175, 175);
+  border-radius: 5px;
+  padding: 8px;
+  font-size: 16px;
+  outline: none;
+}
+
+.input-box button {
+  border: 2px solid rgb(184, 175, 175);
+  background: white;
+  border-radius: 5px;
+  padding: 5px 15px;
+  font-size: 16px;
+  cursor: pointer;
+}
