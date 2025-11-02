@@ -1,0 +1,134 @@
+[
+  {
+    "question": "What are the college hours?",
+    "answer": "The campus is open from 8 AM to 4 PM, Monday to Saturday."
+  },
+  {
+    "question": "Where is the admin office located?",
+    "answer": "The admin office is in A Block, Vijaya Bhuvanam Block, ground floor near the reception."
+  },
+  {
+    "question": "How can I apply for hostel?",
+    "answer": "You can apply by visiting the warden's office in Boys Hostel or Girls Hostel and by filling out the application form."
+  },
+  {
+    "question": "Who is the placement officer?",
+    "answer": "Mr.D.Vijaya Krishna is the Dean placement officer, available in the Training & Placement cell in A-Block."
+  },
+  {
+    "question": "How many Departments are in Vignan? or What are the Departments in Vignan?",
+    "answer": "There are more than 10 departments in vignan including CSE, ECE, MECH, CIVIL, EEE, IT, MBA, MCA, Law etc."
+  },
+  {
+    "question": "What is the fee structure for the courses?",
+    "answer": "The fee structure varies by course. Please refer to the official website or contact the administration office for detailed information."
+  },
+  {
+    "question": "Are there any scholarships available?",
+    "answer": "Yes, scholarships are available based on merit and financial need. Please check with the administration office for eligibility criteria."
+  },
+  {
+    "question": "What extracurricular activities are offered?",
+    "answer": "Vignan offers a variety of Student bodies that includes various verticals, clubs for student extra-circular activities, social services etc.."
+  },
+  {
+    "question": "How can I contact my professors?",
+    "answer": "You can contact your professors via email or during their office hours. Their contact details are available on the college website."
+  },
+  {
+    "question": "Is there a library on campus?",
+    "answer": "Yes,NTR Library is a well-equipped library with a vast collection of books, journals, and digital resources."
+  },
+  {
+    "question": "Where is library located?",
+    "answer": "NTR Library is near the main entrance of the campus, opposite to the A block."
+  },
+  {
+    "question": "What are the transportation options to and from campus?",
+    "answer": "We provide Bus services for various villages and towns near by the campus, and there is Transportation office in the campus  to assist you near the main gate."
+  },
+  {
+    "question": "How do I access the Wi-Fi on campus?",
+    "answer": "You can access the campus Wi-Fi by logging in with your student credentials. Credentials are provided in the ground floor of H-Block, Viseswaraya Block."
+  },
+  {
+    "question": "What is the procedure for internships?",
+    "answer": "Internship opportunities are coordinated through the Training & Placement cell. You can apply for internships by filling out the form."
+  },
+  {
+    "question": "Are there any on-campus dining or  Canteens options?",
+    "answer": "Yes, we have MHP - Most Happening Place in the Ground floor of Najarjuna block, N-Block and also several canteens in all the blocks."
+  },
+  {
+    "question": "What health center are available on campus?",
+    "answer": "In Guest House ground floor, the campus has a health center staffed with medical professionals to provide basic healthcare services to students."
+  },
+  {
+    "question": "How can I join student bodies?",
+    "answer": "You can join student organizations by attending club Sessions or contacting the student affairs office for more information."
+  },
+  {
+    "question": "What Student Bodies are there in vignan ?",
+    "answer": "There are 7 student bodies in vignan including SAC, UEAC(NSS), NCC, E-Cell, Sports, ARC, TBI."
+  },
+  {
+    "question": "Explain about SAC ?",
+    "answer": "The Student Activity Council (SAC) is a student body that organizes various events and activities on campus. It has several verticals including Cultural, Sports, Literary, Tech, Fashion, Media and Arts."
+  },
+  {
+    "question": "Explain about UEAC(NSS) ?",
+    "answer": "The University Extension Activity Council (UEAC), also known as the National Service Scheme (NSS), is a student body that focuses on social service and community development activities."
+  },
+  {
+    "question": "Explain about NCC ?",
+    "answer": "The National Cadet Corps (NCC) is a student body that provides military training and promotes discipline, leadership, and patriotism among students."
+  },
+  {
+    "question": "Explain about E-Cell ?",
+    "answer": "The Entrepreneurship Cell (E-Cell) is a student body that promotes entrepreneurship and innovation among students. It organizes workshops, seminars, and competitions related to startups and business development."
+  },
+  {
+    "question": "Explain about Sports ?",
+    "answer": "The Sports student body organizes various sports events and activities on campus. It encourages students to participate in sports and maintain a healthy lifestyle."
+  },
+  {
+    "question": "Explain about ARC ?",
+    "answer": "The Anti-Ragging Committee (ARC) is a student body that works to prevent ragging and ensure a safe and welcoming environment for all students on campus."
+  },
+  {
+    "question": "Explain about TBI ?",
+    "answer": "The Technology Business Incubator (TBI) is a student body that supports technology-based startups and innovation. It provides resources, mentorship, and networking opportunities for aspiring entrepreneurs."
+  },
+  {
+    "question": "How can I stay updated with college events and announcements?",
+    "answer": "You can stay updated by regularly checking the Instagram pages and LinkedIn Profiles of college."
+  },
+  {
+    "question": "What are the Blocks in Vignan or  where they are located?",
+    "answer": "There are 6 blocks in Vignan including A-Block(Vijaya Bhuvanam Block), H-Block(Viseswaraya Block), N-Block(Nagarjuna Block), U-Block(AryaBhatta Block), P-Block(Pharmacy Block), NTR Library Block."
+  },
+  {
+    "question": "what departments or Offices are located in A-Block or Vijaya Bhuvanam Block?",
+    "answer":"Social sciences and Humanitites dept, Technical office, Training & Placement cell, Dean Student Affairs office, UEAC office, Finance Office, Administartion office."
+  },
+  {
+    "question": "what departments or Offices are located in H-Block or Visweswaray Block?",
+    "answer":"ECE, EEE, Bio-Medical, Agriculture Engineering."
+  },
+  {
+    "question": "what departments or Offices are located in U-Block or AryaBhatta Block?",
+    "answer": "IT, Management, Bio-Infomatics, Bio-Tech,LAW, BCA, Automation & Robotics."
+  },
+  {
+    "question": "what departments or Offices are located in N-Block or Nagarjuna Block?",
+    "answer": "CSE, ACSE, Agriculture BSc, TBI, ARC office, Space research center."
+  },
+  {
+    "question": "what CSE or ACSE or Agriculture BSc or TBI or ARC office or Space research center departments and Offices are located?",
+    "answer": "In Nagarjuna Block i.e, N-Block."
+  },
+  {
+    "question": "what Social sciences and Humanitites dept or Technical office or Training & Placement cell or Dean Student Affairs office or UEAC office or Finance Office or Administartion departments and Offices are located?",
+    "answer": "In Vijaya Bhuvanam Block i.e, A-Block."
+  }
+]
