@@ -1,0 +1,21 @@
+.message {
+  max-width: 60%;
+  padding: 3px 8px;
+  border: 2px solid rgb(184, 175, 175);
+  border-radius: 15px;
+  display: inline-block;
+  font-size: 16px;
+}
+
+/* Bot message (left aligned) */
+.message.bot {
+  align-self: flex-start;
+  background: #b6defc;
+  border: 2px solid rgb(131, 186, 249);
+}
+
+/* User message (right aligned) */
+.message.user {
+  align-self: flex-end;
+  background: #ebe7fa;
+}
